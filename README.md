@@ -7,7 +7,7 @@
 <h3>하이욥:wave:</h3>
 <h4>:thought_balloon:Welcom to my GitHub profile! I'm a student majoring in computer science. Thx for visiting :) </h4>
   
-<img width=100% src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif"/>
+<img width=100% src="https://thumbs.gfycat.com/WiltedSereneGreatwhiteshark-size_restricted.gif"/>
 
   
 <h3>:wrench: Tech Stack :wrench:</h3>
