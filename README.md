@@ -4,7 +4,7 @@
 
 <div align=center>
   
-<h3>하이욥:wave:</h3>
+<h3>Hello I'm GaEun!:wave:</h3>
 <h4>:thought_balloon:Welcom to my GitHub profile! I'm a student majoring in computer science. Thx for visiting :) </h4>
   
 <img width=100% src="https://thumbs.gfycat.com/WiltedSereneGreatwhiteshark-size_restricted.gif"/>
