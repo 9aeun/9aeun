@@ -4,8 +4,8 @@
 
 <div align=center>
   
-<h3>Hello I'm GaEun!:wave:</h3>
-<h4>:thought_balloon:Welcom to my GitHub profile! I'm a student majoring in computer science. Thx for visiting :) </h4>
+<h3>Hello I'm GaEun!:two_hearts:</h3>
+<h4>:purple_heart:Welcom to my GitHub profile! I am a student majoring in software department. :) :purple_heart:</h4>
   
 <img width=100% src="https://thumbs.gfycat.com/WiltedSereneGreatwhiteshark-size_restricted.gif"/>
 
