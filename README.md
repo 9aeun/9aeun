@@ -4,8 +4,8 @@
 
 <div align=center>
   
-<h3>Hello I'm GaEun!:two_hearts:</h3>
-<h4>:purple_heart:Welcom to my GitHub profile! I am a student majoring in software department. :) :purple_heart:</h4>
+<h3>Welcome to GaEunlog!:two_hearts:</h3>
+<h4>:purple_heart: I am a student majoring in software department. :) :purple_heart:</h4>
   
 <img width=100% src="https://thumbs.gfycat.com/WiltedSereneGreatwhiteshark-size_restricted.gif"/>
 
@@ -43,9 +43,6 @@
 <h3>:earth_asia: Find me around the web :earth_asia:</h3>
   
 <a href="https://www.instagram.com/9aeuno_o/" target="_blank"><img alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/></a>
-<!--
-<a href="https://blog.naver.com/happyyj01" target="_blank"><img alt="Naver" src ="https://img.shields.io/badge/blog-03C75A.svg?&style=flat-square&logo=Naver&logoColor=white"/></a>
--->
 <a href="https://github.com/9aeun" target="_blank"><img alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=github&logoColor=white"/></a>
 
 </div>
