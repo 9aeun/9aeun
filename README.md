@@ -15,15 +15,19 @@
   Programming
 </li>
 
+<br/>
 
 <li>
   Front-end
 </li>
 
+<br/>
 
 <li>
   Back-end
 </li>
+
+<br/>
 
 <li>
   Framework
