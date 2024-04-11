@@ -6,8 +6,10 @@
   
 <h3>Håfa Adai! WELCOME KKAN'S GIT</h3>
 <h4>:purple_heart: I am a student majoring in software department. :) :purple_heart:</h4>
+
+
   
-<img width=100% src="https://thumbs.gfycat.com/WiltedSereneGreatwhiteshark-size_restricted.gif"/>
+<img width=100% src="[https://thumbs.gfycat.com/WiltedSereneGreatwhiteshark-size_restricted.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fso78x113cm1.wixsite.com%2Fhanbok-disney%2F%25ED%2594%2584%25EB%25A6%25B0%25EC%2584%25B8%25EC%258A%25A4&psig=AOvVaw2P1pF8BTckil-gxkAgMPaT&ust=1712937955024000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjAl6XFuoUDFQAAAAAdAAAAABAD)"/>
 
   
 <h3>:wrench: Tech Stack :wrench:</h3>
