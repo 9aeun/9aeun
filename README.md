@@ -9,7 +9,7 @@
 
 
   
-<img width=100% src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2018/08/tenor-1.gif"/>
+<img width=70% src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2018/08/tenor-1.gif"/>
 
   
 <h3>:wrench: Tech Stack :wrench:</h3>
