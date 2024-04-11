@@ -13,6 +13,10 @@
 <h3>:wrench: Tech Stack :wrench:</h3>
 <li>
   Programming
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  
 </li>
 
 <br/>
@@ -30,7 +34,13 @@
 <br/>
 
 <li>
-  Framework
+  Framework 
+</li>
+
+<br/>
+
+<li>
+  CoworkTool
 </li>
 
 <!--언어들-->
