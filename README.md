@@ -5,7 +5,7 @@
 <div align=center>
   
 <h3>Håfa Adai! WELCOME KKAN'S GIT</h3>
-<h4>I am a student majoring in software department. :) :purple_heart:</h4>
+<h4> A student majoring in software :) </h4>
 
 
   
